@@ -1,0 +1,10 @@
+int main(int argc, char **argv)
+{
+  /* every line after this comment is a statement, hence ends with semicolan (";")*/
+  int firstNumber = 22;
+  int secondNumber = 13;
+  int sum = firstNumber + secondNumber;
+  std::cout << "The Sum of two numbers is :" << sum << std::endl;
+
+  return 0; 
+}
