@@ -11,5 +11,5 @@ int main() {
   for( i = 1; i<= 100000; i++ ) {
     cout << s << "\n" ;
   }
-  cout << "The End" << ", Total printed :" << i-1 << " times";
+  cout << "The End" << ", Total printed :" << i-1 << " times !!";
 }
