@@ -1,2 +1,2 @@
 # Codes
- Contain codes of tutorials while learning different programming languages.
+ Contain codes of tutorials & DSA while learning different programming languages.
